@@ -6,7 +6,7 @@ Hello there! 👋 Welcome to the world of team C241-PS061! We are a group of pas
 
 ## 🌏 Project Overview
 
-Our team developed Teran to address prevalent stress issues among students, informed by personal experiences. Leveraging machine learning, we detect stress probabilities and utilize cloud services for secure data storage. Teran aims to empower individuals, particularly students, with stress management knowledge. Features include a survey tool for stress level assessment and articles promoting mental health awareness. Additionally, a network feature facilitates sharing stories among students facing similar challenges.
+Our team developed Teran to address prevalent stress issues among students, informed by personal experiences. Leveraging machine learning, we detect stress probabilities and utilize cloud services for secure data storage. Teran aims to empower individuals, particularly students, with stress management knowledge. Features include a survey tool for stress level assessment and journal to just confide in ourselves through notes. Additionally, a network feature facilitates sharing stories among students facing similar challenges.
 
 ## 👥 Meet Our Extraordinary Team
 
