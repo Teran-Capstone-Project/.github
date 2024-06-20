@@ -1,4 +1,4 @@
-![Teran Cover](banner-teran.png)
+![Teran Cover](terangood.png)
 
 # C241-PS061 - Bangkit 2024 Capstone Team Project (Teran)
 
